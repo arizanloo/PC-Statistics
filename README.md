@@ -1,6 +1,7 @@
 # PC Statistics
 This Windows Forms project gets the current statistics of your PC.
 
+![PC-Statistics](https://github.com/arizanloo/PC-Statistics/blob/main/PC_Statistics.png)
 ## Adjustement
 To start using this code you need to import this using statements: <br />
 `using Microsoft.Win32;` <br />
