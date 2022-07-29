@@ -3,7 +3,7 @@ This Windows Forms project gets the current statistics of your PC.
 
 ## Adjustement
 To start using this code you need to import this using statements:
-`using Microsoft.Win32;
+`using Microsoft.Win32;\n
 using System.Management;
 using System.Net;`
 ## Software
