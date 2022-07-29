@@ -2,10 +2,10 @@
 This Windows Forms project gets the current statistics of your PC.
 
 ## Adjustement
-To start using this code you need to import this using statements:
-`using Microsoft.Win32;\n
-using System.Management;
-using System.Net;`
+To start using this code you need to import this using statements: <br />
+`using Microsoft.Win32; <br />
+using System.Management; <br />
+using System.Net;` <br />
 ## Software
 This project was created using Microsoft Visual Studio 2017 - .NET Framework 4.6.1 .
 ## Extras
