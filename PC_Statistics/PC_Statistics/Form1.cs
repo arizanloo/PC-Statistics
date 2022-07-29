@@ -105,4 +105,3 @@ namespace PC_Statistics
         
     }  
 }
-/*https://ourcodeworld.com/articles/read/879/how-to-retrieve-the-ram-amount-available-on-the-system-in-winforms-with-c-sharp */
