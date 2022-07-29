@@ -1,0 +1,10 @@
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\bin\Debug\PC_Statistics.exe.config
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\bin\Debug\PC_Statistics.exe
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\bin\Debug\PC_Statistics.pdb
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\obj\Debug\PC_Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\obj\Debug\PC_Statistics.Form1.resources
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\obj\Debug\PC_Statistics.Properties.Resources.resources
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\obj\Debug\PC_Statistics.csproj.GenerateResource.Cache
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\obj\Debug\PC_Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\obj\Debug\PC_Statistics.exe
+C:\Users\Alireza\Desktop\C# Projects\PC_Statistics\PC_Statistics\obj\Debug\PC_Statistics.pdb
